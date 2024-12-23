@@ -1,0 +1,1 @@
+This repository contains a MATLAB example demonstrating an unhandled error within a user-defined function. The function `myFunction` throws an error if the input is negative, but the error handling isn't robust enough to provide informative error messages or recovery options. The solution provided shows better error handling techniques.
